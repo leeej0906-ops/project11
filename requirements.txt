@@ -1,0 +1,6 @@
+# 펫패스(PetPass) 실행에 필요한 파이썬 라이브러리 목록입니다.
+# Streamlit Community Cloud가 배포 시 이 파일을 읽어 자동으로 설치합니다.
+# (버전을 고정해 두면 배포 환경에서도 동일하게 동작합니다.)
+streamlit==1.58.0
+requests==2.34.2
+pandas==3.0.3
